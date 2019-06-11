@@ -1,9 +1,17 @@
 <html>
  <head>
   <title>Database Test</title>
+  <br/> 
+  <h1> Hello World </h1>
+  <br/> 
+  <h2> This is Cloud Computing class </h2>
+  <a href ="https://vnexpress.net/" target="_blank" >This is link vnexpress</a>
+  <br/>
+  <a href ="https://www.24h.com.vn/" target="_blank" >This is link 24h.com</a>
+  <br/>
  </head>
  <body>
- <?php echo '<p>Work on Database</p>'; 
+ <?php echo '<p> Database </p>'; 
  
  ?> 
      <a href="ConnectToDB.php" target="_blank" >Connect database</a>
